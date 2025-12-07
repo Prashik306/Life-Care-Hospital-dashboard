@@ -1,4 +1,5 @@
 🏥 Life Care Hospital Dashboard – Excel Project
+
 This project showcases an interactive Life Care Hospital Dashboard built in Microsoft Excel to analyse patient flow and experience.📊​​
 
 Using pivot tables, charts and slicers, the dashboard tracks:

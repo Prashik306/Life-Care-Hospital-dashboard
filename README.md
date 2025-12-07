@@ -1,17 +1,17 @@
-🏥 Life Care Hospital Dashboard – Excel Project
+🏥 Life Care Hospital Dashboard (Excel)
 
-This project showcases an interactive Life Care Hospital Dashboard built in Microsoft Excel to analyse patient flow and experience.📊​​
 
-Using pivot tables, charts and slicers, the dashboard tracks:
+An interactive Life Care Hospital Dashboard built in Microsoft Excel to transform raw patient records into clear, actionable insights.📊​
+This dashboard helps hospital teams to:
 
-Admission status: admitted vs. not admitted patients to monitor utilisation.🚪​
+✅ Track patient admission status (admitted vs. not admitted) in real time
 
-Age distribution: patient volume by age group for better demographic insights.📈​
+🎯 Monitor timeliness of care with the percentage of patients seen within 30 minutes
 
-Timeliness of care: percentage of patients attended within 30 minutes to measure service efficiency.⏱️​
+👨‍👩‍👧‍👦 Analyse patient demographics by age, gender, and race
 
-Gender analysis: male vs. female patient counts for balanced reporting.⚧️​
+🧭 Identify top department referrals (General Practice, Orthopaedics, Neurology, etc.) for better resource planning
 
-Department referrals: top‑referred departments (General Practice, Orthopaedics, Neurology, etc.) to support staffing and resource planning.🏥​
+🔍 Slice data by month and year using interactive filters and slicers
 
-The dashboard is fully interactive with monthly slicers, allowing users to filter trends by time and instantly update all visuals for data‑driven decision‑making.🚀
+Feel free to explore the workbook, learn from the formulas and pivot tables, and adapt this dashboard to your own healthcare or operations datasets. 🚀
